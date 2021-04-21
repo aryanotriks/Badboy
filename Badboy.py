@@ -3,7 +3,7 @@
 #The Credit For This Code Goes Sayyed Zakarya
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
-import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass,pyfiglet
+import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
 for n in range(2000):
 
